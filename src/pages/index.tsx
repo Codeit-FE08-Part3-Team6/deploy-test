@@ -4,5 +4,5 @@ import { Inter } from "next/font/google";
 const inter = Inter({ subsets: ["latin"] });
 
 export default function Home() {
-  return <main>잘되나 확인~</main>;
+  return <main>main 잘되나 확인~</main>;
 }
